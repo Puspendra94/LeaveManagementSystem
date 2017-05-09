@@ -1,0 +1,31 @@
+     #notification_count 
+            {
+                //display: none;
+                padding: 3px 7px 3px 7px;
+                background: #cc0000;
+                color: #ffffff;
+                font-weight: bold;
+                float: right;
+                margin-left: 0%;
+                border-radius: 9px;
+                -moz-border-radius: 9px; 
+                -webkit-border-radius: 9px;
+                position: absolute;
+                margin-top: -11px;
+                font-size: 11px;
+            }
+            
+            /*#out
+        {
+            float: right;
+            margin-left: 10px;
+            //margin-right: 10px;
+        }
+        */
+        #out img
+        {
+            width: 20px;
+            height: 17px;
+            //float: right;
+            margin-left: 1%;
+        }

@@ -1,0 +1,15 @@
+#panel{
+    margin-left: 14%;
+    height: 150%;
+    width: 70%;
+    background-color: blue;
+    border-radius: 20px;
+}
+#con{
+    margin-left: 10%;
+}
+#pic{
+    margin-left: 2%;
+    margin-top: -42px;
+}
+

@@ -1,0 +1,49 @@
+Updates:  date-29/4/2015
+		  time-12:03:00 am
+
+    1. pagination(inbox,applied leave,trash,notification)   //done
+
+    2. Local javascript(remove cdn)   //done
+
+    3. Change password in admin panel   //done
+
+    4. Server side validation  //done but ask something to someone
+
+    5. use ajax for showing notifications 
+
+    6. show database exceptions using perfect(user friendly) message
+
+    7. optimize database table sizes (recomended by sir)
+
+    8. update inbox and notification table when a new message received after login
+
+    9. redirect to home page if user added sucessfully in admin panel   or show a error message  //done
+
+    10. show buttons if javascript is disabled in browser  //not done
+
+    11. use Logger in LMS (Log4j) //done
+
+    12. admin will register via install.jsp  //done
+
+    13. show the user explicitly about the fields that must be entered  (use *)  //done in users panel
+
+    14. custome error pages-- 400,401,403,440,404,500,501,502,503,504 and 505: OK  //done
+
+
+    IMPORTANT UPDATE:::
+
+    1. separate javascript, css and html from a document  //done
+
+    2. show notification using ajax
+
+    3. use logger (log4j)  //done
+
+    4. modify custom error pages.(Home button)  //done partially
+
+    5. show a confirm dialog box before deleting   //done
+
+    6. optimize codes
+
+    7. show errornotif in sent mail, Trash and notification in users panel
+
+    8. admin will register via install.jsp (using hit counter)  //done

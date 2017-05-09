@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
+    <style>
+        #out
+        {
+            float: right;
+            margin-left: 89.8%;
+            //margin-right: 10px;
+        }
+        #out img
+        {
+            width: 20px;
+            height: 17px;
+        }
+    </style>
+    
+        <ul id="nav">
+            <li class="current"><a href="AdminLoggedIn.jsp">HOME</a></li>
+            <li><a>Department</a>
+                <ul>
+                    <li><a href="IdServlet">Add Department</a></li>
+                    <li><a href="ShowDepServlet">View Department</a></li>
+                </ul>
+            </li>
+            <li><a>Employee</a>
+                <ul>
+                    <li><a href="UidServlet">Add User</a></li>
+                    <li><a href="ShowUserServlet">User Profile</a></li>
+                </ul>
+            </li>
+            
+            <li><a>Group</a>
+                <ul>
+                    <li><a href="AddGroup.jsp">Add Group</a></li>
+                    <li><a href="ViewGroupServlet">View Group</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="ChangePassword.jsp">Change Password</a>
+            </li>
+            <li>
+                <a href="AdminLogOutServlet"  id="out"><img src="icon/out.png"></a>
+            </li>
+        </ul>
+    
+</html>

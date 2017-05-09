@@ -1,0 +1,12 @@
+ $(document).ready(function(){
+                 $(".c").click(function(){
+                     if($('.c:checked').length===1)
+                     {
+                         $("#panel").show("slow");
+                     }
+                     else
+                     {
+                         $("#panel").hide("slow");
+                     }
+                 });
+             });

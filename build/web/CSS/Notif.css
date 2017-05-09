@@ -1,0 +1,11 @@
+ tr{
+                width: 100%;
+                border-radius: 9px;
+                border: solid;
+                border-color: black;
+                border-width: 1px;
+            }
+            #panel{
+                display: none;
+                margin-left: 60px;
+            }

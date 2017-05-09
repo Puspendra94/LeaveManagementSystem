@@ -1,0 +1,13 @@
+#panel{
+                display: none;
+                margin-left: 75%;
+                //margin-top: 100px;
+            }
+            td{
+                text-align: center;
+            }
+           
+            #msg a{
+                text-decoration: none;
+                color: blue;
+            }
